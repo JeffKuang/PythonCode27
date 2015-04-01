@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-  
    
 import urllib2  
-import urllib  
+#import urllib  
 import re  
 import thread  
 import time  
